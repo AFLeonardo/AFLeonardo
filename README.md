@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a>Leonardo</a>.<br> I'm a Python Developer from Mexico.<br><br>#python #docker #git #c</samp>
+  <samp>Hello there. I'm <b>Leonardo</b>.<br> I'm a Python Developer from Mexico.<br><br>#python #docker #git #c</samp>
   <br>
   <br>
   <br>
